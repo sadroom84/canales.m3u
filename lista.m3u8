@@ -1,41 +1,190 @@
 #EXTM3U
-#EXTINF:-1,**********TDT**********
-http://4k.electrodahri.com:8000/live/active/active/53817.ts
-#EXTINF:-1,ES: LA 1
-http://4k.electrodahri.com:8000/live/active/active/53815.ts
-#EXTINF:-1,ES: LA 1 FHD
-http://4k.electrodahri.com:8000/live/active/active/54186.ts
-#EXTINF:-1,ES: LA 2
-http://4k.electrodahri.com:8000/live/active/active/53814.ts
-#EXTINF:-1,ES: ANTENA 3
-http://4k.electrodahri.com:8000/live/active/active/53813.ts
-#EXTINF:-1,ES: Antena 3 hd
-http://4k.electrodahri.com:8000/live/active/active/63746.ts
-#EXTINF:-1,ES: ANTENA 3 FHD
-http://4k.electrodahri.com:8000/live/active/active/54236.ts
-#EXTINF:-1,ES: CUATRO
-http://4k.electrodahri.com:8000/live/active/active/53812.ts
-#EXTINF:-1,ES: CUATRO hd
-http://4k.electrodahri.com:8000/live/active/active/63723.ts
-#EXTINF:-1,ES: CUATRO FHD
-http://4k.electrodahri.com:8000/live/active/active/54204.ts#EXTM3U
-#EXTINF:-1,**********TDT**********
-http://4k.electrodahri.com:8000/live/active/active/53817.ts
-#EXTINF:-1,ES: LA 1
-http://4k.electrodahri.com:8000/live/active/active/53815.ts
-#EXTINF:-1,ES: LA 1 FHD
-http://4k.electrodahri.com:8000/live/active/active/54186.ts
-#EXTINF:-1,ES: LA 2
-http://4k.electrodahri.com:8000/live/active/active/53814.ts
-#EXTINF:-1,ES: ANTENA 3
-http://4k.electrodahri.com:8000/live/active/active/53813.ts
-#EXTINF:-1,ES: Antena 3 hd
-http://4k.electrodahri.com:8000/live/active/active/63746.ts
-#EXTINF:-1,ES: ANTENA 3 FHD
-http://4k.electrodahri.com:8000/live/active/active/54236.ts
-#EXTINF:-1,ES: CUATRO
-http://4k.electrodahri.com:8000/live/active/active/53812.ts
-#EXTINF:-1,ES: CUATRO hd
-http://4k.electrodahri.com:8000/live/active/active/63723.ts
-#EXTINF:-1,ES: CUATRO FHD
-http://4k.electrodahri.com:8000/live/active/active/54204.ts#EXTM3U
+
+#EXTINF:-1,**********LATIN AMERECA*********
+http://4k.electrodahri.com:8000/live/active/active/54340.m3u8
+#EXTINF:-1,LA: AMC
+http://4k.electrodahri.com:8000/live/active/active/54324.m3u8
+#EXTINF:-1,LA: ANIMAL PLANET
+http://4k.electrodahri.com:8000/live/active/active/54323.m3u8
+#EXTINF:-1,LA: AXN
+http://4k.electrodahri.com:8000/live/active/active/54322.m3u8
+#EXTINF:-1,LA: AYM SPORT
+http://4k.electrodahri.com:8000/live/active/active/54321.m3u8
+#EXTINF:-1,LA: AZ CORAZON
+http://4k.electrodahri.com:8000/live/active/active/54320.m3u8
+#EXTINF:-1,LA: AZTECA 7
+http://4k.electrodahri.com:8000/live/active/active/54319.m3u8
+#EXTINF:-1,LA: AZTECA CINEMA
+http://4k.electrodahri.com:8000/live/active/active/54318.m3u8
+#EXTINF:-1,LA: AZTECA MUNDO
+http://4k.electrodahri.com:8000/live/active/active/54317.m3u8
+#EXTINF:-1,LA: BANDAMAX
+http://4k.electrodahri.com:8000/live/active/active/54315.m3u8
+#EXTINF:-1,LA: BOOMERANG
+http://4k.electrodahri.com:8000/live/active/active/54314.m3u8
+#EXTINF:-1,LA: CANAL 5
+http://4k.electrodahri.com:8000/live/active/active/54312.m3u8
+#EXTINF:-1,LA: CANAL DE LAS ESTRELLAS
+http://4k.electrodahri.com:8000/live/active/active/54311.m3u8
+#EXTINF:-1,LA: CARTOON NETWORK
+http://4k.electrodahri.com:8000/live/active/active/54310.m3u8
+#EXTINF:-1,LA: CINECANAL
+http://4k.electrodahri.com:8000/live/active/active/54309.m3u8
+#EXTINF:-1,LA: CINEMAX
+http://4k.electrodahri.com:8000/live/active/active/54308.m3u8
+#EXTINF:-1,LA: COMEDY CENTRAL
+http://4k.electrodahri.com:8000/live/active/active/54306.m3u8
+#EXTINF:-1,LA: DE PELICULA
+http://4k.electrodahri.com:8000/live/active/active/54305.m3u8
+#EXTINF:-1,LA: DISCOVERY  HOME & HEALTH
+http://4k.electrodahri.com:8000/live/active/active/54304.m3u8
+#EXTINF:-1,LA: DISCOVERY CHANNEL
+http://4k.electrodahri.com:8000/live/active/active/54303.m3u8
+#EXTINF:-1,LA: DISCOVERY CIVILIZATION
+http://4k.electrodahri.com:8000/live/active/active/54302.m3u8
+#EXTINF:-1,LA: DISCOVERY KIDS
+http://4k.electrodahri.com:8000/live/active/active/54301.m3u8
+#EXTINF:-1,LA: DISCOVERY SCIENCE
+http://4k.electrodahri.com:8000/live/active/active/54300.m3u8
+#EXTINF:-1,LA: DISCOVERY TLC
+http://4k.electrodahri.com:8000/live/active/active/54299.m3u8
+#EXTINF:-1,LA: DISCOVERY TURBO
+http://4k.electrodahri.com:8000/live/active/active/54298.m3u8
+#EXTINF:-1,LA: DISCOVERY WORLD
+http://4k.electrodahri.com:8000/live/active/active/54297.m3u8
+#EXTINF:-1,LA: DISNEY CHANNEL
+http://4k.electrodahri.com:8000/live/active/active/54296.m3u8
+#EXTINF:-1,LA: DISNEY JR
+http://4k.electrodahri.com:8000/live/active/active/54295.m3u8
+#EXTINF:-1,LA: DISNEY XD
+http://4k.electrodahri.com:8000/live/active/active/54294.m3u8
+#EXTINF:-1,LA: DISTRITO COMEDIA
+http://4k.electrodahri.com:8000/live/active/active/54293.m3u8
+#EXTINF:-1,LA: E! ENTERTAINMENT
+http://4k.electrodahri.com:8000/live/active/active/54292.m3u8
+#EXTINF:-1,LA: EL FINANCIERO BLOOMBERGS
+http://4k.electrodahri.com:8000/live/active/active/54291.m3u8
+#EXTINF:-1,LA: ELGOURMETH
+http://4k.electrodahri.com:8000/live/active/active/54290.m3u8
+#EXTINF:-1,LA: ESPN
+http://4k.electrodahri.com:8000/live/active/active/54289.m3u8
+#EXTINF:-1,LA: ESPN 2
+http://4k.electrodahri.com:8000/live/active/active/54288.m3u8
+#EXTINF:-1,LA: FILM ZONE
+http://4k.electrodahri.com:8000/live/active/active/54285.m3u8
+#EXTINF:-1,LA: FORO TV
+http://4k.electrodahri.com:8000/live/active/active/54284.m3u8
+#EXTINF:-1,LA: FOX ACTION
+http://4k.electrodahri.com:8000/live/active/active/54283.m3u8
+#EXTINF:-1,LA: FOX CLASSIC
+http://4k.electrodahri.com:8000/live/active/active/54281.m3u8
+#EXTINF:-1,LA: FOX LIFE
+http://4k.electrodahri.com:8000/live/active/active/54280.m3u8
+#EXTINF:-1,LA: FOX MOVIES
+http://4k.electrodahri.com:8000/live/active/active/54279.m3u8
+#EXTINF:-1,LA: FOX SPORT
+http://4k.electrodahri.com:8000/live/active/active/54278.m3u8
+#EXTINF:-1,LA: FOX
+http://4k.electrodahri.com:8000/live/active/active/54277.m3u8
+#EXTINF:-1,LA: FX
+http://4k.electrodahri.com:8000/live/active/active/54276.m3u8
+#EXTINF:-1,LA: GALA TV
+http://4k.electrodahri.com:8000/live/active/active/54275.m3u8
+#EXTINF:-1,LA: GOLDEN
+http://4k.electrodahri.com:8000/live/active/active/54274.m3u8
+#EXTINF:-1,LA: GOLDEN EDGE
+http://4k.electrodahri.com:8000/live/active/active/54273.m3u8
+#EXTINF:-1,LA: HISTORY
+http://4k.electrodahri.com:8000/live/active/active/54272.m3u8
+#EXTINF:-1,LA: HOLA TV
+http://4k.electrodahri.com:8000/live/active/active/54271.m3u8
+#EXTINF:-1,LA: I-SAT
+http://4k.electrodahri.com:8000/live/active/active/54270.m3u8
+#EXTINF:-1,LA: INVESTIGATION DISCOVERY
+http://4k.electrodahri.com:8000/live/active/active/54269.m3u8
+#EXTINF:-1,LA: LIFETIME
+http://4k.electrodahri.com:8000/live/active/active/54268.m3u8
+#EXTINF:-1,LA: MILENIO TV
+http://4k.electrodahri.com:8000/live/active/active/54267.m3u8
+#EXTINF:-1,LA: MTV HITS
+http://4k.electrodahri.com:8000/live/active/active/54266.m3u8
+#EXTINF:-1,LA: MTV LIVE
+http://4k.electrodahri.com:8000/live/active/active/54265.m3u8
+#EXTINF:-1,LA: NATGEO WILD
+http://4k.electrodahri.com:8000/live/active/active/54263.m3u8
+#EXTINF:-1,LA: NATIONAL GEOGRAPHIC
+http://4k.electrodahri.com:8000/live/active/active/54262.m3u8
+#EXTINF:-1,LA: NICK JR
+http://4k.electrodahri.com:8000/live/active/active/54261.m3u8
+#EXTINF:-1,LA: NICK TOONS
+http://4k.electrodahri.com:8000/live/active/active/54260.m3u8
+#EXTINF:-1,LA: NICKELODEON
+http://4k.electrodahri.com:8000/live/active/active/54259.m3u8
+#EXTINF:-1,LA: PROYECTO 40
+http://4k.electrodahri.com:8000/live/active/active/54258.m3u8
+#EXTINF:-1,LA: SONY
+http://4k.electrodahri.com:8000/live/active/active/54257.m3u8
+#EXTINF:-1,LA: SPACE
+http://4k.electrodahri.com:8000/live/active/active/54256.m3u8
+#EXTINF:-1,LA: STUDIO UNIVERSAL
+http://4k.electrodahri.com:8000/live/active/active/54255.m3u8
+#EXTINF:-1,LA: TCM
+http://4k.electrodahri.com:8000/live/active/active/54253.m3u8
+#EXTINF:-1,LA: TELEMUNDO
+http://4k.electrodahri.com:8000/live/active/active/54251.m3u8
+#EXTINF:-1,LA: TIIN
+http://4k.electrodahri.com:8000/live/active/active/54250.m3u8
+#EXTINF:-1,LA: TNT
+http://4k.electrodahri.com:8000/live/active/active/54249.m3u8
+#EXTINF:-1,LA: TOONCAST
+http://4k.electrodahri.com:8000/live/active/active/54248.m3u8
+#EXTINF:-1,LA: TRENDY CHANNEL
+http://4k.electrodahri.com:8000/live/active/active/54247.m3u8
+#EXTINF:-1,LA: UNIVERSAL CHANNEL
+http://4k.electrodahri.com:8000/live/active/active/54246.m3u8
+#EXTINF:-1,LA: VH1
+http://4k.electrodahri.com:8000/live/active/active/54243.m3u8
+#EXTINF:-1,LA: WIN SPORT HD
+http://4k.electrodahri.com:8000/live/active/active/54241.m3u8
+#EXTINF:-1,LA: WARNER CHANNEL
+http://4k.electrodahri.com:8000/live/active/active/54242.m3u8
+#EXTINF:-1,******COLOMBIA*****
+http://4k.electrodahri.com:8000/live/active/active/66590.m3u8
+#EXTINF:-1,COL: Cablenoticias HD
+http://4k.electrodahri.com:8000/live/active/active/66588.m3u8
+#EXTINF:-1,COL: Canal Capital HD
+http://4k.electrodahri.com:8000/live/active/active/66587.m3u8
+#EXTINF:-1,COL: Canal U TV
+http://4k.electrodahri.com:8000/live/active/active/66586.m3u8
+#EXTINF:-1,COL: Canal Wow TV
+http://4k.electrodahri.com:8000/live/active/active/66585.m3u8
+#EXTINF:-1,COL: Cosmovision HD
+http://4k.electrodahri.com:8000/live/active/active/66584.m3u8
+#EXTINF:-1,COL: DeporTv HD
+http://4k.electrodahri.com:8000/live/active/active/66583.m3u8
+#EXTINF:-1,COL: Efekto TV HD
+http://4k.electrodahri.com:8000/live/active/active/66582.m3u8
+#EXTINF:-1,COL: El Correo TV
+http://4k.electrodahri.com:8000/live/active/active/66581.m3u8
+#EXTINF:-1,COL: El Tiempo HD
+http://4k.electrodahri.com:8000/live/active/active/66580.m3u8
+#EXTINF:-1,COL: Las Estrellas HD
+http://4k.electrodahri.com:8000/live/active/active/66579.m3u8
+#EXTINF:-1,COL: Mello TV
+http://4k.electrodahri.com:8000/live/active/active/66578.m3u8
+#EXTINF:-1,COL: Melody TV HD
+http://4k.electrodahri.com:8000/live/active/active/66577.m3u8
+#EXTINF:-1,COL: Migente TV HD
+http://4k.electrodahri.com:8000/live/active/active/66576.m3u8
+#EXTINF:-1,COL: NeoxTV HD
+http://4k.electrodahri.com:8000/live/active/active/66575.m3u8
+#EXTINF:-1,COL: Tec TV
+http://4k.electrodahri.com:8000/live/active/active/66574.m3u8
+#EXTINF:-1,COL: Teleantioquia HD
+http://4k.electrodahri.com:8000/live/active/active/66573.m3u8
+#EXTINF:-1,COL: Telemax HD
+http://4k.electrodahri.com:8000/live/active/active/66572.m3u8
+#EXTINF:-1,COL: Telemedellin HD
+http://4k.electrodahri.com:8000/live/active/active/66571.m3u8
+#EXTINF:-1,COL: Telesistema Canal 11 HD
+http://4k.electrodahri.com:8000/live/active/active/66570.m3u8
