@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/ar_cinecanal-1_m.png" group-title="CINE", CINECANAL
+http://104.245.96.214:8000/live/escobar/escobar/3194.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="CINE", CINEMAX
+http://104.245.96.214:8000/live/escobar/escobar/3193.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", DE PELICULA
+http://104.245.96.214:8000/live/escobar/escobar/3192.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="CINE", HBO 2
+http://104.245.96.214:8000/live/escobar/escobar/2236.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO FAMILY
+http://104.245.96.214:8000/live/escobar/escobar/2237.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE", HBO PLUS
+http://104.245.96.214:8000/live/escobar/escobar/2239.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/800px-HBO_Signature_Asia.svg.png" group-title="CINE", HBO SIGNATURE
+http://104.245.96.214:8000/live/escobar/escobar/2240.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Fox_Action_Movies_logo_%282012%29.png/revision/latest?cb=20170615151403" group-title="CINE", FOX ACTION
+http://104.245.96.214:8000/live/escobar/escobar/3185.ts
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2880.png" group-title="CINE", FOX COMEDY
+http://104.245.96.214:8000/live/escobar/escobar/2234.ts
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1690.png" group-title="CINE", FOX CINEMA
+http://104.245.96.214:8000/live/escobar/escobar/3184.ts
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_2998.png" group-title="CINE", FOX FAMILY
+http://104.245.96.214:8000/live/escobar/escobar/2235.ts
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1559.png.5e5bd9e6882c26e41e413379b0ad739c.png" group-title="CINE", FOX MOVIES
+http://104.245.96.214:8000/live/escobar/escobar/3182.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="CINE", GOLDEN 
+http://104.245.96.214:8000/live/escobar/escobar/3179.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TNT_Film_HD_Logo_2016.png" group-title="CINE", TNT
+http://104.245.96.214:8000/live/escobar/escobar/3172.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.jpg" group-title="CINE", SPACE HD
+http://104.245.96.214:8000/live/escobar/escobar/3173.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1200px-FOX_wordmark-red.svg.png" group-title="SERIES", FOX
+http://104.245.96.214:8000/live/cesar/cesar/3183.ts
