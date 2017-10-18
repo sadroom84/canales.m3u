@@ -5,8 +5,8 @@ http://104.245.96.214:8000/live/escobar/escobar/3194.ts
 http://104.245.96.214:8000/live/escobar/escobar/3193.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", DE PELICULA
 http://104.245.96.214:8000/live/escobar/escobar/3192.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="CINE", HBO 2
-http://104.245.96.214:8000/live/escobar/escobar/2236.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="CINE", HBO2
+http://104.245.96.214:8000/live/cesar/cesar/2236.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO FAMILY
 http://104.245.96.214:8000/live/escobar/escobar/2237.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE", HBO PLUS
