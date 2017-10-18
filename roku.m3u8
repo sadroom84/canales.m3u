@@ -29,5 +29,5 @@ http://104.245.96.214:8000/live/escobar/escobar/3179.ts
 http://104.245.96.214:8000/live/escobar/escobar/3172.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.jpg" group-title="CINE", SPACE HD
 http://104.245.96.214:8000/live/escobar/escobar/3173.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1200px-FOX_wordmark-red.svg.png" group-title="SERIES", FOX
-http://104.245.96.214:8000/live/cesar/cesar/3183.hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/FOX_Logo.jpg" group-title="SERIES", FOX
+http://104.245.96.214:8000/live/cesar/cesar/3183.ts
