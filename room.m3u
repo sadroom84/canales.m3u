@@ -8,4 +8,4 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
 #EXTINF:-1 ,UNIVICION DEPORTES
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
 #EXTINF:-1 ,TDN
-http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/Stream(06)/index.m3u8
