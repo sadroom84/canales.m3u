@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 ,TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+
+#EXTINF:-1 ,AXN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+
+#EXTINF:-1 ,AXN 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+
+#EXTINF:-1 ,UNIVICION DEPORTES USA
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+#EXTINF:-1 ,UNIVICION DEPORTES USA 2
+http://51.255.88.38:8000/live/bernie/bernie/2788.m3u8
+#EXTINF:-1 ,AZTECZ CINEMA
+http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
+#EXTINF:-1 ,DE PELICULA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:-1 ,NICKELODEON
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1 ,TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 ,UNIVICION TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1 ,PARAMOUNTAIN
+http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+#EXTINF:-1 ,AMC
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1 ,COMEDY CENTRAL
+http://live.izzitv.mx/Content/HLS/Live/Channel(Comedy_Central)/index.m3u8
+#EXTINF:-1 ,TNT SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:-1 ,TNT
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 ,TNT 2
+http://144.217.85.216/streams/src3/lk.m3u8?mxg=U2FsdGVkX1%2BMV2vWTZHhO2IJ%2BYcSI%2F3m0VgLXi4yS4RZhWvfvOoGVBJX23tfdtnxq0%2FsAxNUu8SN2XSPseNTbg%3D%3D
+#EXTINF:-1 ,SPACE
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 ,WARNER CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+#EXTINF:-1 ,A&E
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:-1 ,GOLDEN
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 ,CINEMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1 ,DISTRITO COMEDIA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
