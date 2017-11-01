@@ -3,5 +3,7 @@
 http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
 #EXTINF:-1 ,CDF
 http://144.217.79.223:8000/live/vidal/vidal/274.m3u8
-#EXTINF:-1 ,TNT
-http://144.217.85.216/streams/src3/lk.m3u8?mxg=U2FsdGVkX1%2BMV2vWTZHhO2IJ%2BYcSI%2F3m0VgLXi4yS4RZhWvfvOoGVBJX23tfdtnxq0%2FsAxNUu8SN2XSPseNTbg%3D%3D
+#EXTINF:-1 ,TNT SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:-1 ,UNIVICION DEPORTES
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
