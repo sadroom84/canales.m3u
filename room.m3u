@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,AMC
-http://51.255.88.38:8000/live/foster/foster/2813.m3u8
+http://live.izzitv.mx/Content/HLS/Live/ChannelAMC_HD/Stream06/index.m3u8
 #EXTINF:-1 ,CDF
 http://144.217.79.223:8000/live/vidal/vidal/274.m3u8
 #EXTINF:-1 ,TNT
