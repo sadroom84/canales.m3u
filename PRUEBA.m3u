@@ -1,7 +1,7 @@
 #EXTM3U
-EXTINF:-1 ,UNTDN
+#EXTINF:-1 ,UNTDN
 http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
-EXTINF:-1 ,TDN
+#EXTINF:-1 ,TDN
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(03)/index.m3u8
-EXTINF:-1 ,TDN2
+#EXTINF:-1 ,TDN2
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(07)/index.m3u8
