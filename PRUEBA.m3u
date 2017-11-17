@@ -2,27 +2,20 @@
 #EXTINF:-1 ,UNTDN
 http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
 #EXTINF:-1 ,DYSNEY HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/Stream(02)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/index.m3u8
 #EXTINF:-1 ,NICK JR
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/index.m3u8
 #EXTINF:-1 ,NICK 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/Stream(03)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/index.m3u8
 #EXTINF:-1 ,CARTOON NETWORK
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(03)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8
 #EXTINF:-1 ,DYSNEY XD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8
 #EXTINF:-1 ,A&E
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE_MUNDO_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE_MUNDO_HD)/index.m3u8
 #EXTINF:-1 ;AXN
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
 #EXTINF:-1 ,SONY
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/index.m3u8
 #EXTINF:-1 ,ID HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/index.m3u8
-
-
-
-
-
-
-
