@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://158.69.237.83:25461/live/aline/aline/2720.ts
-#EXTINF:-1,A&E HD
-http://158.69.237.83:25461/live/aline/aline/3371.ts
-#EXTINF:-1,Animal Planet
-http://158.69.237.83:25461/live/aline/aline/1864.ts
-#EXTINF:-1,Arte 1
-http://158.69.237.83:25461/live/aline/aline/1861.ts
-#EXTINF:-1,AXN
-http://158.69.237.83:25461/live/aline/aline/1860.ts
+#EXTINF:-1,LA 1
+http://iptvcs2018.mine.nu:9090/live/vaquezs/24/153.ts
+#EXTINF:-1,SP: LA 1 HD
+http://iptvcs2018.mine.nu:9090/live/vaquezs/24/125.ts
+#EXTINF:-1,La 2
+http://iptvcs2018.mine.nu:9090/live/vaquezs/24/173.ts
